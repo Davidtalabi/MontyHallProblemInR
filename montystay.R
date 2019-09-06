@@ -1,3 +1,5 @@
+#Montystay function by David Talabi ©2019
+
 montystay = function(i)
 {
   
